@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @falkrafa
+- 👋 Hi, I’m Rafael Falk
 - 👀 I’m interested in 
 - 📚 I’m currently learning Computer science at Cesar School
 - 💞️ I’m looking to collaborate on ...
