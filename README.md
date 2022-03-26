@@ -1,7 +1,7 @@
    Hey there, call ne Rafa 👊🏻
 - 📚 Currently studying computer science at Cesar School 
 - 🏆 My hobbies are reading, watching anime, playing basketball and games with friends.
-- 📋 Goals: learn a lot about programing, stability and financial freedom 
+- 📋 Goals: learn a lot about programing, financial freedom and stability
 - 📫 How to reach me: e-mail - rafaelmartinsfalk2@gmail.com or rmf2@cesar.school
 
 <!---
