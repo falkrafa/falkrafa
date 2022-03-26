@@ -1,4 +1,4 @@
-   Hey there, call ne Rafa 👊🏻
+   Hey, call ne Rafa 👊🏻
 - 📚 Currently studying computer science at Cesar School 
 - 🏆 My hobbies are reading, watching anime, playing basketball and games with friends.
 - 📋 Goals: learn a lot about programing, financial freedom and stability
