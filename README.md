@@ -1,6 +1,6 @@
   ## ***Hello there, please call me Rafa***👋🏻
 
- ***🎓 Currently studying computer science at Cesar School.***    
+ ***🎓  I'm currently studying computer science at Cesar School.***    
  ***📫 How to reach me: e-mail - rafaelmartinsfalk2@gmail.com or rmf2@cesar.school***
 <!---
 falkrafa/falkrafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
