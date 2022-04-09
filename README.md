@@ -1,4 +1,4 @@
-  ## ***Hello there, please call me Rafa*** 👊🏻
+  ## ***Hello there, please call me Rafa***👋🏻
 
 -  ***Currently studying computer science at Cesar School.***    
 - ***How to reach me: e-mail - rafaelmartinsfalk2@gmail.com or rmf2@cesar.school***
