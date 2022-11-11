@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Falk</h1>
 
-<div align="center"><img src="https://media.tenor.com/FYZ7n9n6FYwAAAAC/cat-sky.gif" width="60%"/></div>
+<div align="center"><img src="https://media.tenor.com/FYZ7n9n6FYwAAAAC/cat-sky.gif" width="50%"/></div>
 <h3 align="center">I'm currently studying computer science at Cesar School. 👨🏻‍💻</h3>
 
 
