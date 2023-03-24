@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Rafael Falk</h1>
 
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
+<div>
+  <div>
     <img src="https://media.tenor.com/FYZ7n9n6FYwAAAAC/cat-sky.gif" width="50%"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=falkrafa&show_icons=true&theme=tokyonight&title_color=6833FF&text_color=3B47B4" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=falkrafa&show_icons=true&theme=tokyonight&title_color=6833FF&text_color=3B47B4" width="48%"/>
   </div>
 </div>
 
