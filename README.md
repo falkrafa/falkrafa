@@ -4,7 +4,7 @@
 <div>
   <div>
     <img src="https://media.tenor.com/FYZ7n9n6FYwAAAAC/cat-sky.gif" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=falkrafa&show_icons=true&theme=tokyonight&title_color=6833FF&text_color=3B47B4" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=falkrafa&show_icons=true&theme=tokyonight&title_color=6833FF&text_color=3B47B4&hide_border=true" width="50%"/>
   </div>
 </div>
 
