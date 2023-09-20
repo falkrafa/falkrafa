@@ -1,12 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rafael Falk</h1>
 
 
-<div>
-  <div>
-    <img src="https://media.tenor.com/FYZ7n9n6FYwAAAAC/cat-sky.gif" width="49%"/>
- 
-  </div>
-</div>
+
 
 <h3 align="left">I'm currently studying computer science at Cesar School. 👨🏻‍💻</h3>
 
@@ -21,6 +16,11 @@
 <a href="https://linkedin.com/in/rafael-falk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-falk" height="30" width="40" /></a>
 </p>
 <hr>
+<div>
+  <div>
+    <img src="https://media.tenor.com/FYZ7n9n6FYwAAAAC/cat-sky.gif" width="49%"/>
+  </div>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
