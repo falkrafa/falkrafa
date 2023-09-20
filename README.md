@@ -6,9 +6,9 @@
 <h3 align="left">I'm currently studying computer science at Cesar School. 👨🏻‍💻</h3>
 
 
-- 📚 I’m currently learning <b><i>Javascript</i></b>  
-
-- 📫 How to reach me <b><i>rafaelmartinsfalk2@gmail.com</i></b>
+- 📚 I’m currently improving my knowledge in <b><i>React</i></b>  
+- 🎮 When talking about hobbies, I like playing games, watching anime and movies.
+- 📫 How to reach me <b><i>rafaelfalk.dev@gmail.com</i></b>
 
 
 <h3 align="left">Connect with me:</h3>
