@@ -12,9 +12,7 @@
 <a href="https://linkedin.com/in/rafael-falk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-falk" height="30" width="40" /></a>
 </p>
 <hr>
-  
-<div>
-</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>  
