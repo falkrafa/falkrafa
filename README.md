@@ -32,7 +32,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" width="70" height="70"/>
     <br/>
-    <strong>Your Song</strong><br/>
-    by <em>Elton John</em>
+    <strong>Teste</strong><br/>
+    by <em>Teste artista</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
