@@ -33,3 +33,13 @@
 
 
 
+
+    <h3>What I'm currently listening to 🎵</h3>
+
+    <p>
+      <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" width="70" height="70"/>
+      <br/>
+      <strong>Your Song</strong><br/>
+      by <em>Elton John</em>
+    </p>
+    
