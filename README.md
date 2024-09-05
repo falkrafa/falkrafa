@@ -27,12 +27,3 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/></br>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/>
 </div>
-    
-<h3 align="left">What I'm currently listening to 🎵</h3>
-
-    <div align="left">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" width="70" height="70"/>
-      <br/>
-      <strong>Your Song</strong><br/>
-      by <em>Elton John</em>
-    </div>
