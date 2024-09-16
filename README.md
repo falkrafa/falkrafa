@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273229a333e30908975e7724646" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" width="70" height="70"/>
     <br/>
-    <strong>Castlevania</strong><br/>
-    by <em>Matuê</em>
+    <strong>Set Fire to the Rain</strong><br/>
+    by <em>Adele</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
