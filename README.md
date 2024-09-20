@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f337a21d945f44e802a1eb1d" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247" width="70" height="70"/>
     <br/>
-    <strong>That's The Way It Is</strong><br/>
-    by <em>Daniel Lanois</em>
+    <strong>Waves</strong><br/>
+    by <em>Dean Lewis</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
