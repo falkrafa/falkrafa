@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf" width="70" height="70"/>
     <br/>
-    <strong>Something Just Like This</strong><br/>
-    by <em>The Chainsmokers</em>
+    <strong>O</strong><br/>
+    by <em>Coldplay</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
