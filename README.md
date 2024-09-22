@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" width="70" height="70"/>
     <br/>
-    <strong>Demons</strong><br/>
-    by <em>Imagine Dragons</em>
+    <strong>Viva La Vida</strong><br/>
+    by <em>Coldplay</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
