@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27377a7bd558d81172446e525bb" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737" width="70" height="70"/>
     <br/>
-    <strong>Secrets</strong><br/>
-    by <em>OneRepublic</em>
+    <strong>Radioactive</strong><br/>
+    by <em>Imagine Dragons</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
