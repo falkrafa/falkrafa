@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27302df2d642b572cf4f284a5c3" width="70" height="70"/>
     <br/>
-    <strong>Clocks</strong><br/>
-    by <em>Coldplay</em>
+    <strong>Don't Let Me Down</strong><br/>
+    by <em>The Chainsmokers</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
