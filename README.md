@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736842c99f481b8560a7db0b35" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" width="70" height="70"/>
     <br/>
-    <strong>Down by the River</strong><br/>
-    by <em>Borislav Slavov</em>
+    <strong>The Sound of Silence - Acoustic Version</strong><br/>
+    by <em>Simon & Garfunkel</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
