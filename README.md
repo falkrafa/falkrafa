@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="70" height="70"/>
     <br/>
-    <strong>Renegades</strong><br/>
-    by <em>X Ambassadors</em>
+    <strong>I Wanna Be Yours</strong><br/>
+    by <em>Arctic Monkeys</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
