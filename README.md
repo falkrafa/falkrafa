@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" width="70" height="70"/>
     <br/>
-    <strong>Stay With Me</strong><br/>
-    by <em>Sam Smith</em>
+    <strong>Renegades</strong><br/>
+    by <em>X Ambassadors</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
