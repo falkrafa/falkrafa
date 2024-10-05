@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27338900c29071fe12d7a0a13cc" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117" width="70" height="70"/>
     <br/>
-    <strong>Destroy Myself Just For You</strong><br/>
-    by <em>Montell Fish</em>
+    <strong>Washing Machine Heart</strong><br/>
+    by <em>Mitski</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
