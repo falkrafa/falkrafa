@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27338900c29071fe12d7a0a13cc" width="70" height="70"/>
     <br/>
-    <strong>girl i’ve always been</strong><br/>
-    by <em>Olivia Rodrigo</em>
+    <strong>Destroy Myself Just For You</strong><br/>
+    by <em>Montell Fish</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
