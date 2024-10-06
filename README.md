@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273286a0837ff3424065a735e0a" width="70" height="70"/>
     <br/>
-    <strong>Poker Face</strong><br/>
-    by <em>Lady Gaga</em>
+    <strong>T.N.T.</strong><br/>
+    by <em>AC/DC</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
