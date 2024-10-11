@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273760d81cefd2c8cade93a812c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2730bb359c6d31691904b88515c" width="70" height="70"/>
     <br/>
-    <strong>Ai to Shu - Grief and Sorrow [from Naruto] - Hokage's Funeral</strong><br/>
-    by <em>Bird Of Pray</em>
+    <strong>Obito's Theme (Naruto Shippuden Original Soundtrack)</strong><br/>
+    by <em>PianoDeuss</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
