@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca901b5f422eea45c2512736" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273e073e5f3e15fb3ce9fa0fcfa" width="70" height="70"/>
     <br/>
-    <strong>The Garden of Words - A Rainy Morning</strong><br/>
-    by <em>Otaku Muisc</em>
+    <strong>Itachi's Theme</strong><br/>
+    by <em>Christophe Deremy</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
