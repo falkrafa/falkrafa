@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b0b18b506303b091e7f00ad3" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27383abbd7511aed40740b1726c" width="70" height="70"/>
     <br/>
-    <strong>Dark Dawn</strong><br/>
-    by <em>Lorenzo Ferrara</em>
+    <strong>Pokemon - Farewell, Pikachu!</strong><br/>
+    by <em>Harmony River</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
