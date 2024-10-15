@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734aae02f5b8f6c0f4ebe790f1" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2737e854cf3f7cc9eb5cf9a89a3" width="70" height="70"/>
     <br/>
-    <strong>Mono No Aware</strong><br/>
-    by <em>Chasing Mirrors</em>
+    <strong>Itachi Theme - Instrumental</strong><br/>
+    by <em>Prayathna</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
