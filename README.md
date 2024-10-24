@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736012829a32ed0e4c084e693b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273002e126912900d7bbf45b112" width="70" height="70"/>
     <br/>
-    <strong>Don't Give Up On Me</strong><br/>
-    by <em>Andy Grammer</em>
+    <strong>Wind (From "Naruto Ending 1") - Instrumental</strong><br/>
+    by <em>Leon Alex</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
