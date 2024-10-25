@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273002e126912900d7bbf45b112" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273eac8df2c2ca5f6bcf79e1b51" width="70" height="70"/>
     <br/>
-    <strong>Wind (From "Naruto Ending 1") - Instrumental</strong><br/>
-    by <em>Leon Alex</em>
+    <strong>Daredevil - Main Theme</strong><br/>
+    by <em>Vasaria Project</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
