@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d911e43123678e12f4eb2823" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733c8e49702ac859c0ed5151a0" width="70" height="70"/>
     <br/>
-    <strong>帰郷</strong><br/>
-    by <em>Yasuharu Takanashi</em>
+    <strong>Harvest (Hai to Gensou no Grimgar)</strong><br/>
+    by <em>Bobu Sama</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
