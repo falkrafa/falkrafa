@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737a9bf5f82e32d33d4503fe7b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273aacd27a096e6e59ff555b46c" width="70" height="70"/>
     <br/>
-    <strong>Cherry Wine - Live</strong><br/>
-    by <em>Hozier</em>
+    <strong>Those Eyes</strong><br/>
+    by <em>New West</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
