@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2732f25bf92a9d81420b2390ddd" width="70" height="70"/>
     <br/>
-    <strong>Just A Lil Bit</strong><br/>
-    by <em>50 Cent</em>
+    <strong>Roses</strong><br/>
+    by <em>Jenna Raine</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
