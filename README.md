@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27320bc306da63dacab20cfee56" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734e2755e7a96ec5e062c76aac" width="70" height="70"/>
     <br/>
-    <strong>Listen To Your Heart</strong><br/>
-    by <em>Through Fire</em>
+    <strong>Eye of the Tiger</strong><br/>
+    by <em>Survivor</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
