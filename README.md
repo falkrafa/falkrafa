@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" width="70" height="70"/>
     <br/>
-    <strong>Every Breath You Take</strong><br/>
-    by <em>The Police</em>
+    <strong>What Was I Made For? [From The Motion Picture "Barbie"]</strong><br/>
+    by <em>Billie Eilish</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
