@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27385e5dcc05cc216a10f141480" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27320bc306da63dacab20cfee56" width="70" height="70"/>
     <br/>
-    <strong>Wonderwall - Remastered</strong><br/>
-    by <em>Oasis</em>
+    <strong>Listen To Your Heart</strong><br/>
+    by <em>Through Fire</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
