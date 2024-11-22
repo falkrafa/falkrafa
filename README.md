@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27383abbd7511aed40740b1726c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27385e5dcc05cc216a10f141480" width="70" height="70"/>
     <br/>
-    <strong>Hokage's Funeral, Naruto No Theme</strong><br/>
-    by <em>Harmony River</em>
+    <strong>Wonderwall - Remastered</strong><br/>
+    by <em>Oasis</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
