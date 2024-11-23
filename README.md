@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734e2755e7a96ec5e062c76aac" width="70" height="70"/>
     <br/>
-    <strong>We Will Rock You - Remastered 2011</strong><br/>
-    by <em>Queen</em>
+    <strong>Eye of the Tiger</strong><br/>
+    by <em>Survivor</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
