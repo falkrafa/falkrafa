@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273046527a9c176f7c2916f3530" width="70" height="70"/>
     <br/>
-    <strong>Skyfall</strong><br/>
-    by <em>Adele</em>
+    <strong>Him & I (with Halsey)</strong><br/>
+    by <em>G-Eazy</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
