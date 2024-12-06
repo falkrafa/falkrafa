@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733f04ce56f3786307572fc944" width="70" height="70"/>
     <br/>
-    <strong>When I Was Your Man</strong><br/>
-    by <em>Bruno Mars</em>
+    <strong>We Own It (Fast & Furious)</strong><br/>
+    by <em>2 Chainz</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
