@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" width="70" height="70"/>
     <br/>
-    <strong>I Wanna Be Yours</strong><br/>
-    by <em>Arctic Monkeys</em>
+    <strong>Boulevard of Broken Dreams</strong><br/>
+    by <em>Green Day</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
