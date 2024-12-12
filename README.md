@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2739140b7b186f87f9f53c26379" width="70" height="70"/>
     <br/>
-    <strong>Otherside</strong><br/>
-    by <em>Red Hot Chili Peppers</em>
+    <strong>幻昼 - 钢琴版</strong><br/>
+    by <em>文武贝</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
