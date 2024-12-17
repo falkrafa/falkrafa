@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27359ce61a220822995a3ccd27f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c3244d303444a43b933b9bf4" width="70" height="70"/>
     <br/>
-    <strong>Arcade</strong><br/>
-    by <em>Duncan Laurence</em>
+    <strong>Superstar (feat. Matthew Santos)</strong><br/>
+    by <em>Lupe Fiasco</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
