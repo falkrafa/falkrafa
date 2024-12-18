@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c3244d303444a43b933b9bf4" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e810d2a60bd66961076bfce" width="70" height="70"/>
     <br/>
-    <strong>Superstar (feat. Matthew Santos)</strong><br/>
-    by <em>Lupe Fiasco</em>
+    <strong>Ride</strong><br/>
+    by <em>Aaron May</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
