@@ -30,9 +30,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738e810d2a60bd66961076bfce" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27321077f4f90a03f5ca0e51d81" width="70" height="70"/>
     <br/>
-    <strong>Ride</strong><br/>
-    by <em>Aaron May</em>
+    <strong>Mockingbird</strong><br/>
+    by <em>8DOSA</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
