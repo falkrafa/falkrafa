@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273760d81cefd2c8cade93a812c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" width="70" height="70"/>
     <br/>
-    <strong>Guren [from Naruto Shippuuden]</strong><br/>
-    by <em>Bird Of Pray</em>
+    <strong>Sweet Child O' Mine</strong><br/>
+    by <em>Guns N' Roses</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
