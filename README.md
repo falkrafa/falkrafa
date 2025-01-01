@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cc761ba55b0e7abad4539abe" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" width="70" height="70"/>
     <br/>
-    <strong>Best Day Of My Life</strong><br/>
-    by <em>American Authors</em>
+    <strong>Centuries</strong><br/>
+    by <em>Fall Out Boy</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
