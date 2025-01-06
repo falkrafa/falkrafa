@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330dd807174572291941aea5a" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c60473419a4ce96822541181" width="70" height="70"/>
     <br/>
-    <strong>Home</strong><br/>
-    by <em>Edith Whiskers</em>
+    <strong>Hold On</strong><br/>
+    by <em>Chord Overstreet</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
