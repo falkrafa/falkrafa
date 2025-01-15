@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f039d2a6afcfab0827bb9bc0" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273ace3e7aae0b7c78bbe1c4f35" width="70" height="70"/>
     <br/>
-    <strong>I Don't Want To Miss A Thing - From "Armageddon" Soundtrack</strong><br/>
-    by <em>Aerosmith</em>
+    <strong>Everybody Hurts</strong><br/>
+    by <em>R.E.M.</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
