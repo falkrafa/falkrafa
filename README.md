@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" width="70" height="70"/>
     <br/>
-    <strong>Hey There Delilah</strong><br/>
-    by <em>Plain White T's</em>
+    <strong>lovely (with Khalid)</strong><br/>
+    by <em>Billie Eilish</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
