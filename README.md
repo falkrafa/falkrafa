@@ -37,7 +37,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b273d911e43123678e12f4eb2823" width="70" height="70"/>
     <br/>
-    <strong>失意</strong><br/>
+    <strong>孤独</strong><br/>
     by <em>Yasuharu Takanashi</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
