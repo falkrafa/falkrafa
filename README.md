@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27343454f02090edfda76b0294d" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738ad2adfa59683b9c8ace96c1" width="70" height="70"/>
     <br/>
-    <strong>Man of the World - From "Naruto Shippuden"</strong><br/>
-    by <em>Vasaria Project</em>
+    <strong>Rockstar</strong><br/>
+    by <em>Nickelback</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
