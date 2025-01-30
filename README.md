@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732c5921c0271e52946a9f832c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273f9f0edfe58bbb6e3c44e574f" width="70" height="70"/>
     <br/>
-    <strong>Kamado Tanjirou no Uta (From "Demon Slayer:Kimetsu no Yaiba") [Lullaby Version]</strong><br/>
-    by <em>A V I A N D</em>
+    <strong>紅蓮</strong><br/>
+    by <em>Yasuharu Takanashi</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
