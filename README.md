@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">Software Developer @ Amigo Tech 👨🏻‍💻</h3>
+<h3 align="left">Software Engineer @ Amigo Tech 👨🏻‍💻</h3>
 
 - 📫 How to reach me <b><i>rafaelfalk.dev@gmail.com</i></b>
 
