@@ -36,9 +36,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733ca85bc135acfbf4a71a526e" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" width="70" height="70"/>
     <br/>
-    <strong>Ukiyo</strong><br/>
-    by <em>Chasing Mirrors</em>
+    <strong>Have You Ever Seen The Rain</strong><br/>
+    by <em>Creedence Clearwater Revival</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
