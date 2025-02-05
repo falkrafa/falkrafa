@@ -36,9 +36,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273ca901b5f422eea45c2512736" width="70" height="70"/>
     <br/>
-    <strong>Hey Ya!</strong><br/>
-    by <em>Outkast</em>
+    <strong>fireworks - Arrange</strong><br/>
+    by <em>Otaku Muisc</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
