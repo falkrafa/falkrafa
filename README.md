@@ -36,9 +36,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca901b5f422eea45c2512736" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" width="70" height="70"/>
     <br/>
-    <strong>fireworks - Arrange</strong><br/>
-    by <em>Otaku Muisc</em>
+    <strong>Part Of Me</strong><br/>
+    by <em>Katy Perry</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
