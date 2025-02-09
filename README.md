@@ -36,9 +36,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e" width="70" height="70"/>
     <br/>
-    <strong>Praise The Lord (Da Shine) (feat. Skepta)</strong><br/>
-    by <em>A$AP Rocky</em>
+    <strong>Somebody That I Used To Know</strong><br/>
+    by <em>Gotye</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
