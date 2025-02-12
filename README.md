@@ -36,9 +36,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c3244d303444a43b933b9bf4" width="70" height="70"/>
     <br/>
-    <strong>This Love</strong><br/>
-    by <em>Maroon 5</em>
+    <strong>Superstar (feat. Matthew Santos)</strong><br/>
+    by <em>Lupe Fiasco</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
