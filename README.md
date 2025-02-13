@@ -36,9 +36,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273760d81cefd2c8cade93a812c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" width="70" height="70"/>
     <br/>
-    <strong>Utsusemi – Man of the World [from Naruto Shippuuden]</strong><br/>
-    by <em>Bird Of Pray</em>
+    <strong>When I Was Your Man</strong><br/>
+    by <em>Bruno Mars</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
