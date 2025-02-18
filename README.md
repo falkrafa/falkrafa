@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2731a2ea4b2790502d44e87c0b8" width="70" height="70"/>
     <br/>
-    <strong>Just the Way You Are</strong><br/>
-    by <em>Bruno Mars</em>
+    <strong>Ai to Shu (Grief and Sorrow, Hokages Funeral)</strong><br/>
+    by <em>Bird Of Pray</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
