@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734b9f3b34399b7ae4cc7a45be" width="70" height="70"/>
     <br/>
-    <strong>Run This Town</strong><br/>
-    by <em>JAY-Z</em>
+    <strong>Battle Scars (with Guy Sebastian)</strong><br/>
+    by <em>Lupe Fiasco</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
