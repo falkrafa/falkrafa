@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273475bcee9c3ea9567ec4d1d5f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273ace3e7aae0b7c78bbe1c4f35" width="70" height="70"/>
     <br/>
-    <strong>The Calm Before The Storm</strong><br/>
-    by <em>Hikigai</em>
+    <strong>Everybody Hurts</strong><br/>
+    by <em>R.E.M.</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
