@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" width="70" height="70"/>
     <br/>
-    <strong>Fix You</strong><br/>
-    by <em>Coldplay</em>
+    <strong>Love The Way You Lie</strong><br/>
+    by <em>Eminem</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
