@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738e1a23e42f68260b7b274e09" width="70" height="70"/>
     <br/>
-    <strong>Fast Lane</strong><br/>
-    by <em>Bad Meets Evil</em>
+    <strong>Hurricane</strong><br/>
+    by <em>Bob Dylan</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
