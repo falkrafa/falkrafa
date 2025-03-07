@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732e3049fef96abebf336b7366" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2739cfe80c0c05ce104f7bab18e" width="70" height="70"/>
     <br/>
-    <strong>Hall of Fame (feat. will.i.am)</strong><br/>
-    by <em>The Script</em>
+    <strong>Don't You Worry Child - Radio Edit</strong><br/>
+    by <em>Swedish House Mafia</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
