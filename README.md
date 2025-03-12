@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917" width="70" height="70"/>
     <br/>
-    <strong>Mockingbird</strong><br/>
-    by <em>Eminem</em>
+    <strong>The Emptiness Machine</strong><br/>
+    by <em>Linkin Park</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
