@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b" width="70" height="70"/>
     <br/>
-    <strong>The Emptiness Machine</strong><br/>
-    by <em>Linkin Park</em>
+    <strong>Way down We Go</strong><br/>
+    by <em>KALEO</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
