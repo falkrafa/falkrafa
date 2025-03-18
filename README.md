@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802" width="70" height="70"/>
     <br/>
-    <strong>They Don't Care About Us</strong><br/>
-    by <em>Michael Jackson</em>
+    <strong>Nothing Else Matters</strong><br/>
+    by <em>Metallica</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
