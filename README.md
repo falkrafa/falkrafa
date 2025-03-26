@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246" width="70" height="70"/>
     <br/>
-    <strong>Stairway to Heaven - Remaster</strong><br/>
-    by <em>Led Zeppelin</em>
+    <strong>The Man Who Sold The World - Live</strong><br/>
+    by <em>Nirvana</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
