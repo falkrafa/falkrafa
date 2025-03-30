@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739d0f0d226987b449808e7b6f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac" width="70" height="70"/>
     <br/>
-    <strong>Try</strong><br/>
-    by <em>P!nk</em>
+    <strong>Is It Over Now? (Taylor's Version) (From The Vault)</strong><br/>
+    by <em>Taylor Swift</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
