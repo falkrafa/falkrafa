@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273857d8e15773810712f2ffe67" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273e28d602e8874612b70f2b4fa" width="70" height="70"/>
     <br/>
-    <strong>Eden</strong><br/>
-    by <em>Au5</em>
+    <strong>This One Is for You (RIP Dad)</strong><br/>
+    by <em>Yung City</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
