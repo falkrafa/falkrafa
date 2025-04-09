@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27332f1572738340ddc9569c54b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a3f03a74f3f5ec8873c98924" width="70" height="70"/>
     <br/>
-    <strong>Sail</strong><br/>
-    by <em>AWOLNATION</em>
+    <strong>Mr. Forgettable</strong><br/>
+    by <em>David Kushner</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
