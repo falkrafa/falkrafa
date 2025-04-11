@@ -34,9 +34,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b829b621e43a1f5b72cc4388" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27344971d48c21dbd132f2d506e" width="70" height="70"/>
     <br/>
-    <strong>What I've Done - One More Light Live</strong><br/>
-    by <em>Linkin Park</em>
+    <strong>Behind Blue Eyes</strong><br/>
+    by <em>Limp Bizkit</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
