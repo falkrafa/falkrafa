@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" width="70" height="70"/>
     <br/>
-    <strong>GOLDWING</strong><br/>
-    by <em>Billie Eilish</em>
+    <strong>Chasing Cars</strong><br/>
+    by <em>Snow Patrol</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
