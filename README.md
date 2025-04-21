@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731157b2bb07e84e7d6a2686d3" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27358b4dad535c17cfbb106e9cd" width="70" height="70"/>
     <br/>
-    <strong>Experienced Many Battles - From "Naruto Shippuden"</strong><br/>
-    by <em>Vasaria Project</em>
+    <strong>オレンジ</strong><br/>
+    by <em>7!!</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
