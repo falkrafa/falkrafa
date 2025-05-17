@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a3f03a74f3f5ec8873c98924" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2730682f13c108d0aa9fb3a7e7a" width="70" height="70"/>
     <br/>
-    <strong>Mr. Forgettable</strong><br/>
-    by <em>David Kushner</em>
+    <strong>Hanging In The Wire</strong><br/>
+    by <em>PJ Harvey</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
