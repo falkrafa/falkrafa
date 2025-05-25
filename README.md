@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730171f0298e36d13ed41097d6" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2730bdbbc6c37f394d7b019824c" width="70" height="70"/>
     <br/>
-    <strong>Kimi Wa Haru No Naka Ni Iru (From "Your Lie In April")</strong><br/>
-    by <em>LucasPianoRoom</em>
+    <strong>Touch</strong><br/>
+    by <em>Sleeping At Last</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
