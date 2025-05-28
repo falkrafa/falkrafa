@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" width="70" height="70"/>
     <br/>
-    <strong>Starman - 2012 Remaster</strong><br/>
-    by <em>David Bowie</em>
+    <strong>Chasing Cars</strong><br/>
+    by <em>Snow Patrol</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
