@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f96035eb24bd0bc69a8d4558" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738ea92a85c492af8a38750549" width="70" height="70"/>
     <br/>
-    <strong>savior</strong><br/>
-    by <em>Beowülf</em>
+    <strong>Je te laisserai des mots</strong><br/>
+    by <em>Patrick Watson</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
