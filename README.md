@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739d24f74c1e2d8a12b1e591ec" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273dad39d4906f76b7c176effb1" width="70" height="70"/>
     <br/>
-    <strong>back to friends</strong><br/>
+    <strong>undressed</strong><br/>
     by <em>sombr</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
