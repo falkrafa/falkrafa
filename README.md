@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273dad39d4906f76b7c176effb1" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734068e6db0ec52b1f677119c3" width="70" height="70"/>
     <br/>
-    <strong>undressed</strong><br/>
-    by <em>sombr</em>
+    <strong>Out of My League</strong><br/>
+    by <em>Fitz and The Tantrums</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
