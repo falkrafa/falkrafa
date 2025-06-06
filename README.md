@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273277620423172f5a151f452e3" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" width="70" height="70"/>
     <br/>
-    <strong>Anchor</strong><br/>
-    by <em>Novo Amor</em>
+    <strong>Chasing Cars</strong><br/>
+    by <em>Snow Patrol</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
