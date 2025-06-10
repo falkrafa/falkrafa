@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27313f982aa5c43146c3d2c1964" width="70" height="70"/>
     <br/>
-    <strong>Say Yes To Heaven</strong><br/>
-    by <em>Lana Del Rey</em>
+    <strong>Hedwig's Theme</strong><br/>
+    by <em>John Williams</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
