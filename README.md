@@ -37,7 +37,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b273b4b0deaf4a24a795396a9d24" width="70" height="70"/>
     <br/>
-    <strong>To Build A Home</strong><br/>
+    <strong>That Home</strong><br/>
     by <em>The Cinematic Orchestra</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
