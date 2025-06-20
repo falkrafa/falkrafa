@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2730eb232a1b19b8c8139645a82" width="70" height="70"/>
     <br/>
-    <strong>The Night We Met</strong><br/>
-    by <em>Lord Huron</em>
+    <strong>To Build A Home - Album Edit</strong><br/>
+    by <em>The Cinematic Orchestra</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
