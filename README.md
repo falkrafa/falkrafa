@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e6a6079a8fd46abb140379e4" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27387986e804018697f14194ace" width="70" height="70"/>
     <br/>
-    <strong>The Mountain Is You</strong><br/>
-    by <em>Chance Peña</em>
+    <strong>Poznań</strong><br/>
+    by <em>Low Roar</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
