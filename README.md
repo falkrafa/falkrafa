@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27387986e804018697f14194ace" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c33269d7c729e4566416b96f" width="70" height="70"/>
     <br/>
-    <strong>Poznań</strong><br/>
-    by <em>Low Roar</em>
+    <strong>Far Away</strong><br/>
+    by <em>José González</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
