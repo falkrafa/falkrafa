@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27330b847fa19668026c4313ba3" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735754ece3acf9ffae41629333" width="70" height="70"/>
     <br/>
-    <strong>LET EM GO</strong><br/>
-    by <em>Matt Hansen</em>
+    <strong>Soul Tied</strong><br/>
+    by <em>Ashley Singh</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
