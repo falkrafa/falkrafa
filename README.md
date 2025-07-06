@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735754ece3acf9ffae41629333" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c697a8e97bc1a535ad457d2c" width="70" height="70"/>
     <br/>
-    <strong>Soul Tied</strong><br/>
-    by <em>Ashley Singh</em>
+    <strong>The Sense of Me</strong><br/>
+    by <em>Mud Flow</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
