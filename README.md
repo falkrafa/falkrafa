@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e951c4da3149657cb23cc4d0" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a2bc5fd7e51b61a904e7c20c" width="70" height="70"/>
     <br/>
-    <strong>Palace (No drums) - Slowed</strong><br/>
-    by <em>ADTurnUp</em>
+    <strong>Runnin' Down A Dream</strong><br/>
+    by <em>Tom Petty</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
