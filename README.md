@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273af6b486fa0a2959f79c8acd8" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" width="70" height="70"/>
     <br/>
-    <strong>My Sharona</strong><br/>
-    by <em>The Knack</em>
+    <strong>Immigrant Song - Remaster</strong><br/>
+    by <em>Led Zeppelin</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
