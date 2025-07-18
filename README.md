@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f3598b237e15acb076031965" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2732ed914c44f98380b179796e4" width="70" height="70"/>
     <br/>
-    <strong>Is This Love</strong><br/>
-    by <em>Jazzystics</em>
+    <strong>Right To Be Wrong</strong><br/>
+    by <em>Joss Stone</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
