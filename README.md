@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738214d54694cb9813927f7f3f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733fc1588803d1887f11d660cc" width="70" height="70"/>
     <br/>
-    <strong>Boulevard of Broken Dreams</strong><br/>
-    by <em>Green Day</em>
+    <strong>Mystery of Love</strong><br/>
+    by <em>Sufjan Stevens</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
