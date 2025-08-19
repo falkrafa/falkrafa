@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27371e538bd958aff399aef8f0d" width="70" height="70"/>
     <br/>
-    <strong>Walking On A Dream</strong><br/>
-    by <em>Empire Of The Sun</em>
+    <strong>Feel It</strong><br/>
+    by <em>d4vd</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
