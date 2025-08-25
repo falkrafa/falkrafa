@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733bba6a5b7ed4477f2e8f90c7" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273ae859022b02dfe42b2c7a04d" width="70" height="70"/>
     <br/>
-    <strong>Jealous</strong><br/>
-    by <em>Labrinth</em>
+    <strong>I'll Keep Coming</strong><br/>
+    by <em>Low Roar</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
