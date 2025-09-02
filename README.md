@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2730bdbbc6c37f394d7b019824c" width="70" height="70"/>
     <br/>
-    <strong>Sailor Song</strong><br/>
-    by <em>Gigi Perez</em>
+    <strong>Touch</strong><br/>
+    by <em>Sleeping At Last</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
