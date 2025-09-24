@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734540be4db9e67752e3a623a6" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4" width="70" height="70"/>
     <br/>
-    <strong>Franklin House</strong><br/>
-    by <em>Brenn!</em>
+    <strong>Outro</strong><br/>
+    by <em>M83</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
