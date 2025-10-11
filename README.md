@@ -37,7 +37,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b273280a0fd77d0ed67f9f5ee4d1" width="70" height="70"/>
     <br/>
-    <strong>Minivan (From The Runarounds Original Series)</strong><br/>
+    <strong>Sophia (Jam) (From The Runarounds Original Series)</strong><br/>
     by <em>The Runarounds</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
