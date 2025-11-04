@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b7a9b44a140bb83ef9a4106f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2732ae7a7ebfcacb3ed5fe004d3" width="70" height="70"/>
     <br/>
-    <strong>Arrhythmia (I Hope You Stay) (From The Runarounds Original Series)</strong><br/>
-    by <em>The Runarounds</em>
+    <strong>Feel It All Again</strong><br/>
+    by <em>Winyah</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
