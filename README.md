@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27318c224f0d3c24635f33a59b4" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2737f26c51aacbc6de44d19102d" width="70" height="70"/>
     <br/>
-    <strong>When I'm Stoned</strong><br/>
-    by <em>Blank Space</em>
+    <strong>One Shot Left</strong><br/>
+    by <em>Outlaw Algorithm</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
