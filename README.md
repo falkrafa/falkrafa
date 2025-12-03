@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c61eadaaa3d38547edd8429f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590" width="70" height="70"/>
     <br/>
-    <strong>Long Nights</strong><br/>
-    by <em>moondoggy</em>
+    <strong>Maple Syrup</strong><br/>
+    by <em>The Backseat Lovers</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
