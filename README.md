@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733d37877506b23a60160df9ff" width="70" height="70"/>
     <br/>
-    <strong>Paradise</strong><br/>
-    by <em>Coldplay</em>
+    <strong>Stargazing</strong><br/>
+    by <em>Myles Smith</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
