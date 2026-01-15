@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733d37877506b23a60160df9ff" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738d34e1fc21441df43571faaa" width="70" height="70"/>
     <br/>
-    <strong>Stargazing</strong><br/>
-    by <em>Myles Smith</em>
+    <strong>Say You Won't Let Go</strong><br/>
+    by <em>James Arthur</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
