@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d45404b4c5a5444cb06c9f7b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734eca888a069c69ff22c358f9" width="70" height="70"/>
     <br/>
-    <strong>This Side of Paradise</strong><br/>
-    by <em>Coyote Theory</em>
+    <strong>Дагестан</strong><br/>
+    by <em>SABINA</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
