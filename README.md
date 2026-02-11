@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273fc37e2e19b33d5705c251644" width="70" height="70"/>
     <br/>
-    <strong>DJ Got Us Fallin' In Love (feat. Pitbull)</strong><br/>
-    by <em>USHER</em>
+    <strong>I Know You</strong><br/>
+    by <em>Faye Webster</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
