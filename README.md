@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738352ba18a72a0ebd8cab2e5f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27331603889a9011b33a8d14b2c" width="70" height="70"/>
     <br/>
-    <strong>Sweet Heat Lightning</strong><br/>
-    by <em>Gregory Alan Isakov</em>
+    <strong>Amarillo By Morning</strong><br/>
+    by <em>George Strait</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
