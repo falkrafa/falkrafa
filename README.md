@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27331603889a9011b33a8d14b2c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273f049b842cfccd9cf9fd496e3" width="70" height="70"/>
     <br/>
-    <strong>Amarillo By Morning</strong><br/>
-    by <em>George Strait</em>
+    <strong>Rancho Relax</strong><br/>
+    by <em>Dr. Beats</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
