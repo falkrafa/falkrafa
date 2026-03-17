@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273084051346f432cc68a1279cd" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735c185b2aaa0c05b73e3ddd94" width="70" height="70"/>
     <br/>
-    <strong>Big Iron</strong><br/>
-    by <em>Marty Robbins</em>
+    <strong>Rhinestone Cowboy - Remastered</strong><br/>
+    by <em>Glen Campbell</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
