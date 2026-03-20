@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735c185b2aaa0c05b73e3ddd94" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273c26357620e211089bf6b45e9" width="70" height="70"/>
     <br/>
-    <strong>Rhinestone Cowboy - Remastered</strong><br/>
-    by <em>Glen Campbell</em>
+    <strong>I Won't Back Down</strong><br/>
+    by <em>Johnny Cash</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
