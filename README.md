@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27379d1be381026d9bbd0de591b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27390c9072fbd484299e0f624ca" width="70" height="70"/>
     <br/>
-    <strong>(Ghost) Riders in the Sky</strong><br/>
+    <strong>God's Gonna Cut You Down</strong><br/>
     by <em>Johnny Cash</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
