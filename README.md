@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738b2d0ca50de87a51c15889c0" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a18a572fed0a7112fcbe6205" width="70" height="70"/>
     <br/>
-    <strong>Keep The Wolves Away</strong><br/>
-    by <em>Uncle Lucius</em>
+    <strong>House of the Rising Sun</strong><br/>
+    by <em>The Ghost of Johnny Cash</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
