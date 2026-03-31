@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bbce9d3631801fa3e8bbacdd" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" width="70" height="70"/>
     <br/>
-    <strong>Knocking on Heaven's Door</strong><br/>
-    by <em>The Ghost of Johnny Cash</em>
+    <strong>Let It Be - Remastered 2009</strong><br/>
+    by <em>The Beatles</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
