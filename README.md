@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" width="70" height="70"/>
     <br/>
-    <strong>Let It Be - Remastered 2009</strong><br/>
-    by <em>The Beatles</em>
+    <strong>Have You Ever Seen The Rain</strong><br/>
+    by <em>Creedence Clearwater Revival</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
