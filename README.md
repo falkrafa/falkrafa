@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738a9eb5a1f701d1d367a5ea10" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a19cee952b6dae128d68f116" width="70" height="70"/>
     <br/>
-    <strong>Talking to the Moon</strong><br/>
-    by <em>Bruno Mars</em>
+    <strong>Take Me Home, Country Roads</strong><br/>
+    by <em>John Denver</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
