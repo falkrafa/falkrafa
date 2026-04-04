@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a19cee952b6dae128d68f116" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" width="70" height="70"/>
     <br/>
-    <strong>Take Me Home, Country Roads</strong><br/>
-    by <em>John Denver</em>
+    <strong>Iris</strong><br/>
+    by <em>The Goo Goo Dolls</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
