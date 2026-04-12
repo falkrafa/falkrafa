@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b" width="70" height="70"/>
     <br/>
-    <strong>Iris</strong><br/>
-    by <em>The Goo Goo Dolls</em>
+    <strong>Only Angel</strong><br/>
+    by <em>Harry Styles</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
