@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273263d80522efd7277ab2bb822" width="70" height="70"/>
     <br/>
-    <strong>Good Riddance (Time of Your Life)</strong><br/>
-    by <em>Green Day</em>
+    <strong>The Emptiness Machine</strong><br/>
+    by <em>Linkin Park</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
