@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b26c34d79e4cdaa73672a0b1" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3" width="70" height="70"/>
     <br/>
-    <strong>Suspicious Minds</strong><br/>
-    by <em>Elvis Presley</em>
+    <strong>Walk Of Life - Remastered 1996</strong><br/>
+    by <em>Dire Straits</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
