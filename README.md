@@ -37,7 +37,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" width="70" height="70"/>
     <br/>
-    <strong>Opalite</strong><br/>
+    <strong>The Fate of Ophelia</strong><br/>
     by <em>Taylor Swift</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
