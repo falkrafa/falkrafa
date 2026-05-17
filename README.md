@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27334a29f220057810cce98e1b4" width="70" height="70"/>
     <br/>
-    <strong>Creepin' (with The Weeknd & 21 Savage)</strong><br/>
-    by <em>Metro Boomin</em>
+    <strong>Night Changes</strong><br/>
+    by <em>One Direction</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
