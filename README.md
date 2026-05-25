@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" width="70" height="70"/>
     <br/>
-    <strong>WILDFLOWER</strong><br/>
-    by <em>Billie Eilish</em>
+    <strong>The Fate of Ophelia</strong><br/>
+    by <em>Taylor Swift</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
