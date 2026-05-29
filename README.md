@@ -35,9 +35,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" width="70" height="70"/>
     <br/>
-    <strong>Fade Into You</strong><br/>
-    by <em>Mazzy Star</em>
+    <strong>WILDFLOWER</strong><br/>
+    by <em>Billie Eilish</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
