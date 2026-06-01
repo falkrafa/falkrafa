@@ -40,7 +40,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b273aa03e0d932f0f936f2f81f9f" width="70" height="70"/>
     <br/>
-    <strong>us. (feat. Taylor Swift)</strong><br/>
+    <strong>Let It Happen</strong><br/>
     by <em>Gracie Abrams</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
