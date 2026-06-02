@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273eb10050f6fe8e2783a91a4b1" width="70" height="70"/>
     <br/>
-    <strong>I Love You, I'm Sorry</strong><br/>
-    by <em>Gracie Abrams</em>
+    <strong>Wildest Dreams (Taylor's Version)</strong><br/>
+    by <em>Taylor Swift</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
