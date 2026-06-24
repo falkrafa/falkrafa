@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27343d978694566927455ced3c6" width="70" height="70"/>
     <br/>
-    <strong>Opalite</strong><br/>
-    by <em>Taylor Swift</em>
+    <strong>Ain't No Grave</strong><br/>
+    by <em>Johnny Cash</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
