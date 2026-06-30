@@ -40,7 +40,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583" width="70" height="70"/>
     <br/>
-    <strong>honeybee</strong><br/>
+    <strong>stupid song</strong><br/>
     by <em>Olivia Rodrigo</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
