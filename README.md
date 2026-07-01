@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27343d978694566927455ced3c6" width="70" height="70"/>
     <br/>
-    <strong>stupid song</strong><br/>
-    by <em>Olivia Rodrigo</em>
+    <strong>Ain't No Grave</strong><br/>
+    by <em>Johnny Cash</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
