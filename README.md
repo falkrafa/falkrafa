@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" width="70" height="70"/>
     <br/>
-    <strong>I Love You, I'm Sorry</strong><br/>
-    by <em>Gracie Abrams</em>
+    <strong>Wake Me up When September Ends</strong><br/>
+    by <em>Green Day</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
