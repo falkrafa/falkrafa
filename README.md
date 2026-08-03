@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cc7bfe087a97a09f54c92b28" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="70" height="70"/>
     <br/>
-    <strong>HIGHEST IN THE ROOM</strong><br/>
-    by <em>Travis Scott</em>
+    <strong>Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)</strong><br/>
+    by <em>Metro Boomin</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
