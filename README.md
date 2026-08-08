@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2736a7e6ceda5e779fbb6ec1ba8" width="70" height="70"/>
     <br/>
-    <strong>Fair Trade (with Travis Scott)</strong><br/>
-    by <em>Drake</em>
+    <strong>Runnin</strong><br/>
+    by <em>21 Savage</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
