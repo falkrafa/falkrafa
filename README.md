@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273da33127f62acdb0aca585e92" width="70" height="70"/>
     <br/>
-    <strong>Goodbyes (feat. Young Thug)</strong><br/>
-    by <em>Post Malone</em>
+    <strong>Belong Together</strong><br/>
+    by <em>Mark Ambor</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
