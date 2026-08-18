@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27392b01fe760858d96443e5420" width="70" height="70"/>
     <br/>
-    <strong>Fix You</strong><br/>
-    by <em>Coldplay</em>
+    <strong>Missing Piece</strong><br/>
+    by <em>Vance Joy</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
