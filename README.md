@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273001db2275f98a6b6d069af7c" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27305d081cbdc2f67d37a364d63" width="70" height="70"/>
     <br/>
-    <strong>Evergreen (feat. Caamp)</strong><br/>
-    by <em>Richy Mitch & The Coal Miners</em>
+    <strong>Fire and the Flood</strong><br/>
+    by <em>Vance Joy</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
