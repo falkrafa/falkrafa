@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ca0b1500e39626b9bba791a3" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27347e930787d90cf82cee5ae28" width="70" height="70"/>
     <br/>
-    <strong>White Noise (Sleep & Relaxation Sounds), Pt. 21</strong><br/>
+    <strong>Fan Sounds - White Noise (Sleep & Relaxation), Pt. 28</strong><br/>
     by <em>Sleepy John</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
