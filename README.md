@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512" width="70" height="70"/>
     <br/>
-    <strong>All The Small Things</strong><br/>
-    by <em>blink-182</em>
+    <strong>Heaven</strong><br/>
+    by <em>Bryan Adams</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
