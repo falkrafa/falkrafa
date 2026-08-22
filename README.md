@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27355b8434e04ce0ed2a66d09d0" width="70" height="70"/>
     <br/>
-    <strong>What I've Done</strong><br/>
-    by <em>Linkin Park</em>
+    <strong>Priceless White Noise</strong><br/>
+    by <em>ZNoize</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
