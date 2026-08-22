@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e8a620417734a93a8381a831" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2731e3b43ece6054b7d211b19f1" width="70" height="70"/>
     <br/>
-    <strong>Dreams in White</strong><br/>
-    by <em>Titan Pulse</em>
+    <strong>Calming White Noise Frequencies</strong><br/>
+    by <em>Crystal Slowdown</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
