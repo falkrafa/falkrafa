@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f1b35251884b0598b1f72f26" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273bb2ab072861e75ddc0b19f4c" width="70" height="70"/>
     <br/>
-    <strong>Sky Full Of Noise</strong><br/>
-    by <em>Libronics</em>
+    <strong>Sleep Cabin Noise</strong><br/>
+    by <em>Sound Carrie</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
