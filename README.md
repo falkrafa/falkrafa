@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b27308be32e443e574728a09ab83" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273870870e09d03426920c4c57f" width="70" height="70"/>
     <br/>
-    <strong>Buzzing</strong><br/>
-    by <em>Pentadecimal</em>
+    <strong>Noise Rest</strong><br/>
+    by <em>Ambi Val</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
