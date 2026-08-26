@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273831949037a1db10b87b005fa" width="70" height="70"/>
     <br/>
-    <strong>Numb</strong><br/>
-    by <em>Linkin Park</em>
+    <strong>Beautiful Things</strong><br/>
+    by <em>Benson Boone</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
