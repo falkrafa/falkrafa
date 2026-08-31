@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734622c2444aa74d4dccc34072" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2731f55b14612fd13ddd6cbfb3d" width="70" height="70"/>
     <br/>
-    <strong>Every Night White Noise</strong><br/>
-    by <em>The Noisy Outdoors</em>
+    <strong>Gentle Static White Noise</strong><br/>
+    by <em>Willow Shore</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
