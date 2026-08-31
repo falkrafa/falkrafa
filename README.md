@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab6742d3000053b7cffc9d81df6dee2699e379f5" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734622c2444aa74d4dccc34072" width="70" height="70"/>
     <br/>
-    <strong>Make You Feel My Love</strong><br/>
-    by <em>Adele</em>
+    <strong>Every Night White Noise</strong><br/>
+    by <em>The Noisy Outdoors</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
