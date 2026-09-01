@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733a60095e50104070cc89ed9f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf" width="70" height="70"/>
     <br/>
-    <strong>Budapest</strong><br/>
-    by <em>George Ezra</em>
+    <strong>That’s So True</strong><br/>
+    by <em>Gracie Abrams</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
