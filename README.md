@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732598847169c6594d06740da0" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="70" height="70"/>
     <br/>
-    <strong>21 Guns</strong><br/>
-    by <em>Green Day</em>
+    <strong>The Kids Aren't Alright</strong><br/>
+    by <em>The Offspring</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
