@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a9249ebb15ca7a5b75f16a90" width="70" height="70"/>
     <br/>
-    <strong>The Kids Aren't Alright</strong><br/>
-    by <em>The Offspring</em>
+    <strong>Californication</strong><br/>
+    by <em>Red Hot Chili Peppers</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
