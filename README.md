@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a754a584de7be3a942e21ee6" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733ec61a35a7fbc5a3ad7e88a6" width="70" height="70"/>
     <br/>
-    <strong>Fool's Gold</strong><br/>
-    by <em>Buffalo Traffic Jam</em>
+    <strong>Someone To You - Acoustic</strong><br/>
+    by <em>BANNERS</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
