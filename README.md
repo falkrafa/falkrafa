@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733ec61a35a7fbc5a3ad7e88a6" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273a6584999698c81f1e346ef34" width="70" height="70"/>
     <br/>
-    <strong>Someone To You - Acoustic</strong><br/>
-    by <em>BANNERS</em>
+    <strong>If You Never Call Again</strong><br/>
+    by <em>Deeps</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
