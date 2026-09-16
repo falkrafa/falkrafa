@@ -40,7 +40,7 @@
   <div align="left">
     <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" width="70" height="70"/>
     <br/>
-    <strong>West Coast</strong><br/>
+    <strong>Ultraviolence</strong><br/>
     by <em>Lana Del Rey</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
