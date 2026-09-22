@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273d07efa0dee03117719db47aa" width="70" height="70"/>
     <br/>
-    <strong>Ultraviolence</strong><br/>
-    by <em>Lana Del Rey</em>
+    <strong>Luckiest Man Alive</strong><br/>
+    by <em>Buffalo Traffic Jam</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
