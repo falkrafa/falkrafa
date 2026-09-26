@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f" width="70" height="70"/>
     <br/>
-    <strong>Many Men (Wish Death)</strong><br/>
-    by <em>50 Cent</em>
+    <strong>Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)</strong><br/>
+    by <em>Metro Boomin</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
