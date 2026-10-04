@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab6742d3000053b776afdc98932743aca806076f" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2733f4be7b80314bc44154f2e1a" width="70" height="70"/>
     <br/>
-    <strong>I'm Never Gonna R.I.P.</strong><br/>
-    by <em>Green Day</em>
+    <strong>All I Want Is You</strong><br/>
+    by <em>U2</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
