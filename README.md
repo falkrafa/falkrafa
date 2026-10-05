@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733f4be7b80314bc44154f2e1a" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="70" height="70"/>
     <br/>
-    <strong>All I Want Is You</strong><br/>
-    by <em>U2</em>
+    <strong>DNA.</strong><br/>
+    by <em>Kendrick Lamar</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
