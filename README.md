@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="70" height="70"/>
     <br/>
-    <strong>DNA.</strong><br/>
+    <strong>Not Like Us</strong><br/>
     by <em>Kendrick Lamar</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
