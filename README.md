@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27304973d47074eb035a0840d87" width="70" height="70"/>
     <br/>
-    <strong>DNA.</strong><br/>
-    by <em>Kendrick Lamar</em>
+    <strong>sweater weather - slowed + reverb</strong><br/>
+    by <em>omgkirby</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
