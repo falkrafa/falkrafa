@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="70" height="70"/>
     <br/>
-    <strong>Many Men (Wish Death)</strong><br/>
-    by <em>50 Cent</em>
+    <strong>Basket Case</strong><br/>
+    by <em>Green Day</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
