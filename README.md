@@ -38,9 +38,9 @@
 <!-- START_LAST_TRACK_SECTION -->
   <h3 align="left">What I'm currently listening to 🎵</h3>
   <div align="left">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730436e7b2f1dc434862bb8354" width="70" height="70"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b2734c4af9f49f2c276dca687ced" width="70" height="70"/>
     <br/>
-    <strong>Holiday</strong><br/>
-    by <em>Green Day</em>
+    <strong>Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]</strong><br/>
+    by <em>Justice</em>
   </div>
   <!-- END_LAST_TRACK_SECTION -->
